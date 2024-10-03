@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I work at [parcelLab](https://github.com/parcelLab) and have helped solved stuff related to scalability/cost/performance, distributed systems, complex business configurations, and testing/correctness.
+
+I volunteer as a teacher at [ReDI](https://www.redi-school.org/munich), and have a passion for teaching and psychology (that's my formal education 👨‍🏫).
+
 <!--
 **weiliddat/weiliddat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
