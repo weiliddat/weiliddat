@@ -1,8 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-I work at [parcelLab](https://github.com/parcelLab) and have helped solved stuff related to scalability/cost/performance, distributed systems, complex business configurations, and testing/correctness.
+I work at [Leapsome](https://www.leapsome.com/) and am helping to solve stuff related to AI/LLM engineering.
 
 I volunteer as a teacher at [ReDI](https://www.redi-school.org/munich), and have a passion for teaching and psychology (that's my formal education 👨‍🏫).
+
+### Past Roles
+
+I worked at [parcelLab](https://github.com/parcelLab) and have helped solved stuff related to scalability/cost/performance, distributed systems, complex business configurations, and testing/correctness. I scaled their events, workflow, and notification system to a billion events a week.
 
 <!--
 **weiliddat/weiliddat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
