@@ -2,7 +2,9 @@
 
 I work at [Leapsome](https://www.leapsome.com/) and am helping to solve stuff related to AI/LLM engineering.
 
-I volunteer as a teacher at [ReDI](https://www.redi-school.org/munich), and have a passion for teaching and psychology (that's my formal education 👨‍🏫).
+I volunteer as a teacher at [ReDI](https://www.redi-school.org/munich), teaching and mentoring Python and general computing.
+
+I studied psychology 👨‍🏫, but have been fortunate enough to tinker with computer hardware and software since I was a child.
 
 ### Past Roles
 
